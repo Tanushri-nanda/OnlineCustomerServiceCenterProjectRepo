@@ -9,6 +9,7 @@ public class OnlineCustomerServiceCenterProject1Application {
 	public static void main(String[] args) {
 		SpringApplication.run(OnlineCustomerServiceCenterProject1Application.class, args);
 		System.out.println("Welcome");
+		System.out.println("project 1");
 
 	}
 
